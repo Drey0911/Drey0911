@@ -27,7 +27,7 @@
   <br>
   <div>
     <h2 align="center">💻 Tech Stack</h2>
-    <img align="right" height="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding gif" />
+    <img align="right" height="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding gif" />
   </div>
 </div>
 
