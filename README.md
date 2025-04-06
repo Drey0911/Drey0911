@@ -1,60 +1,80 @@
-<h1 align="center">I am Andrey Mantilla, Systems Engineer in process 💻</h1>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Drey0911/Drey0911/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Drey0911/Drey0911/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Drey0911/Drey0911/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<h1 align="center">👨‍💻 Andrey Mantilla | Systems Engineer in Progress</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time)
 
-###
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drey0911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drey0911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Drey0911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+<br><br>
+<h2 align="center">🔍 Connect With Me</h2>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="discord logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="gmail logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="slack logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="stackoverflow logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="outlook logo" /></a>
+</div>
+<br><br>
+<!-- Animated GIF section -->
+<div>
+  <br>
+  <div>
+    <h2 align="center">💻 Tech Stack</h2>
+    <img align="right" height="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding gif" />
+  </div>
 </div>
 
-###
+<br><br>
 
-<h1 align="center">My knowledge collected 🤓☝️</h1>
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+      </div>
+    </td>
+  </tr>
+</table>
+<br><br>
+<div style="clear: both;"></div>
 
-###
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<img align="right" height="350" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drey0911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
 </div>
+<br><br>
+<h2 align="center">🔝 Most Used Languages</h2>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drey0911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+</div>
