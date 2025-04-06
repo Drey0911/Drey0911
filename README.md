@@ -3,7 +3,6 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time)
 </div>
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -13,7 +12,6 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drey0911&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
