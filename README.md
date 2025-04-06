@@ -11,27 +11,18 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Drey0911&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 </div>
-<br><br>
-<h2 align="center">🔍 Connect With Me</h2>
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="discord logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="gmail logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="slack logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="stackoverflow logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0A66C2&logoColor=white&labelColor=0D1117&style=for-the-badge" height="30" alt="outlook logo" /></a>
-</div>
-<br><br>
-<!-- Animated GIF section -->
 <div>
-  <br>
-  <div>
-    <h2 align="center">💻 Tech Stack</h2>
-    <img align="right" height="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding gif" />
+  <h2 align="center">💻 Tech Stack</h2>
+  <img align="right" height="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding gif" />
+  
+  <div align="left" style="width: 50%; float: left;">
+    <h2>🔝 Most Used Languages</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drey0911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" width="100%" alt="languages graph" />
   </div>
 </div>
 
-<br><br>
+<div style="clear: both;"></div>
 
 <table align="center">
   <tr>
@@ -64,17 +55,9 @@
     </td>
   </tr>
 </table>
-<br><br>
-<div style="clear: both;"></div>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drey0911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-</div>
-<br><br>
-<h2 align="center">🔝 Most Used Languages</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drey0911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </div>
