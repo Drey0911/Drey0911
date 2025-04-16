@@ -1,15 +1,7 @@
-
-
 <h1 align="center">I am Andrey Mantilla, Systems Engineer in process 💻</h1>
 
-<br>
-
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time)
-</div>
-
-
+###
+<div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time)</div>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -18,17 +10,15 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Drey0911&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="languages graph"  />
-</div>
-<br>
+###
 
 <h1 align="center">My knowledge collected 🤓☝️</h1>
-<br><br>
+
+###
 
 <img align="right" height="350" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
