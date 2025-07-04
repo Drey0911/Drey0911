@@ -1,26 +1,12 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  ¡Hola! Soy Andrey Mantilla 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+en+formación💻;Apasionado+por+la+tecnología🚀;Amante+del+código+limpio✨;Siempre+aprendiendo+nuevas+cosas📚">
-</h3>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=586069&center=true&vCenter=true&width=435&lines=Construyendo+el+futuro%2C+l%C3%ADnea+a+l%C3%ADnea;De+bugs+y+café+vive+el+programador;Compilando+sueños%2C+debuggeando+realidades" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">I am Andrey Mantilla, Systems Engineer in process 💻</h1>
 
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/54/c3/47/54c347c5df0a33c706a9df6a3c1c9f8e.gif" alt="Coding gif" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+line+at+a+time)
+</div>  
 
----
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
