@@ -92,7 +92,7 @@
         <br>Spring
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwindcss" />
+        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg)" width="48" height="48" alt="tailwindcss" />
         <br>Tailwind
       </td>
     </tr>
