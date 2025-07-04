@@ -1,3 +1,10 @@
+Andrey Mantilla - Systems Engineer in Process 💻
+javascript
+const andrey = {
+  passion: "Building the future, one line at a time",
+  status: "Currently learning and growing",
+  specialties: ["Web Development", "Mobile Apps", "Systems Engineering"]
+};
 🚀 My Tech Stack
 <div align="center">
 Frontend
@@ -14,3 +21,4 @@ text
 💡 Next Goals: Master Microservices Architecture
 🎯 2024 Focus: Cloud Technologies
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" /> </div><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yourusername/count.svg" /> </p>
+⭐ From Andrey Mantilla with 💙
