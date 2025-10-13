@@ -60,7 +60,7 @@
       <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react native" /> <br>React Native </td>
       <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="laravel" /> <br>Laravel </td> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="laravel" /> <br>Laravel </td> 
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="flask" /> <br>Flask </td> 
       <td align="center" width="96">
