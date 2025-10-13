@@ -52,7 +52,7 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" /> <br>MySQL </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="php" /> <br>PHP </td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="flask" /> <br>Flask </td> 
     </tr>
     <tr>
       <td align="center" width="96"> 
@@ -62,7 +62,7 @@
       <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="laravel" /> <br>Laravel </td> 
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="flask" /> <br>Flask </td> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="php" /> <br>PHP </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" /> <br>Figma </td> 
     </tr>
