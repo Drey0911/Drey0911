@@ -88,6 +88,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreyMantilla&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Andrey's GitHub Stats" />
+  <img width="10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyMantilla&theme=radical&hide_border=false" alt="Andrey's GitHub Streak" />
+</div>
+
 ## 💼 Portfolio
 
 >You can see my projects and skills in more detail at: [Visit My Portfolio HERE](https://drey.is-a.dev/)
