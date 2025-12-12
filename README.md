@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="banner.png" alt="I am Andrey Mantilla, Systems Engineer in process" />
 </div>
@@ -13,7 +12,9 @@
 
 ## 👤 About Me
 
-Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Software Programming Technician** and an **Information Systems Development Technologist**. I'm currently on track to become a **Systems Engineer**, and I absolutely love the process of software development! I'm driven by continuous learning and building innovative solutions.
+<p style="font-size: 50px; line-height: 1.8;">
+Hi there! I'm <strong>Andrey Stteven Mantilla León</strong>. I hold credentials as a <strong>Software Programming Technician</strong> and an <strong>Information Systems Development Technologist</strong>. I'm currently on track to become a <strong>Systems Engineer</strong>, and I absolutely love the process of software development! I'm driven by continuous learning and building innovative solutions.
+</p>
 
 ###
 
@@ -25,9 +26,8 @@ Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Softw
 
 ## 💻 Technologies & Tools
 
-<div align="center">
-
 ### **Frontend Development**
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
@@ -39,17 +39,21 @@ Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
+</div>
 
 ###
 
 ### **Mobile Development**
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react native" />
+</div>
 
 ###
 
 ### **Backend Development**
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask" />
@@ -61,10 +65,12 @@ Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring" />
+</div>
 
 ###
 
 ### **Databases & Backend Services**
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
@@ -72,10 +78,13 @@ Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Softw
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
+</div>
 
 ###
 
 ### **Development Tools**
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma" />
+</div>
