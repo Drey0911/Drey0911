@@ -13,7 +13,7 @@
 
 ## 👤 About Me
 
-> Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Software Programming Technician** and an **Information Systems Development Technologist**. I'm currently on track to become a **Systems Engineer**, and I absolutely love the process of software development! I'm driven by continuous learning and building innovative solutions.
+Hi there! I'm **Andrey Stteven Mantilla León**. I hold credentials as a **Software Programming Technician** and an **Information Systems Development Technologist**. I'm currently on track to become a **Systems Engineer**, and I absolutely love the process of software development! I'm driven by continuous learning and building innovative solutions.
 
 ###
 
@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" style="border: 2px solid #ccc; border-radius: 10px; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" style="border: 2px solid #ccc; border-radius: 10px; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="border: 2px solid #ccc; border-radius: 10px; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" style="border: 2px solid #ccc; border-radius: 10px; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" style="border: 2px solid #ccc; border-radius: 10px; margin: 5px;" />
 </div>
 
