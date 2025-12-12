@@ -15,6 +15,10 @@
 
 >Hi there! I'm <strong>Andrey Stteven Mantilla León</strong>. I hold credentials as a <strong>Software Programming Technician</strong> and an <strong>Information Systems Development Technologist</strong>. I'm currently on track to become a <strong>Systems Engineer</strong>, and I absolutely love the process of software development! I'm driven by continuous learning and building innovative solutions.
 
+## 💼 Portfolio
+
+>You can see my projects and skills in more detail at: [Visit My Portfolio HERE](https://drey.is-a.dev/)
+
 ###
 
 <div align="center">
@@ -87,15 +91,3 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma" />
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyMantilla&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Andrey's GitHub Stats" />
-  <img width="10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreyMantilla&theme=radical&hide_border=false" alt="Andrey's GitHub Streak" />
-</div>
-
-## 💼 Portfolio
-
->You can see my projects and skills in more detail at: [Visit My Portfolio HERE](https://drey.is-a.dev/)
