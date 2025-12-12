@@ -26,16 +26,12 @@
 </div>
 
 ###
-###
-
-
-###
 
 ## 💻 Technologies & Tools
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">> Frontend:</strong>
-  <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+  <strong style="white-space: nowrap;">💻 Frontend:</strong>
+  <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
   <img width="8" />
@@ -51,8 +47,8 @@
 <br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">> Mobile:</strong>
-  <img width="20" />
+  <strong style="white-space: nowrap;">📱 Mobile:</strong>
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react native" />
@@ -61,8 +57,8 @@
 <br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">> Backend:</strong>
-  <img width="20" />
+  <strong style="white-space: nowrap;">⚙️ Backend:</strong>
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="flask" />
@@ -79,8 +75,8 @@
 <br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">> Databases & Services:</strong>
-  <img width="20" />
+  <strong style="white-space: nowrap;">🗄️ Databases & Services:</strong>
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
@@ -93,8 +89,8 @@
 <br>
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">> Development Tools:</strong>
-  <img width="20" />
+  <strong style="white-space: nowrap;">🛠️ Development Tools:</strong>
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
