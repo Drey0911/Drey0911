@@ -1,4 +1,6 @@
-<h1 align="center">I am Andrey Mantilla, Systems Engineer in process 💻</h1>
+<div align="center">
+  <img src="banner.png" alt="I am Andrey Mantilla, Systems Engineer in process" />
+</div>
 
 ###
 
