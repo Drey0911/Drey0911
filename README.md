@@ -29,6 +29,8 @@
 
 ## 💻 Technologies & Tools
 
+>My technology stack for knowledge development, learning, and feedback
+
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   <strong style="white-space: nowrap;">💻 Frontend:</strong>
   <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
@@ -43,6 +45,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
 </div>
+>UI/UX interface construction, interactivity, responsiveness, and API consumption
 
 <br>
 
@@ -53,6 +56,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react native" />
 </div>
+  >Cross-platform iOS/Android or native applications
 
 <br>
 
@@ -71,6 +75,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring" />
 </div>
+>Business logic, API construction, architecture models, and key functionalities
 
 <br>
 
@@ -85,6 +90,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase" />
 </div>
+>Data model and tools for building services
 
 <br>
 
@@ -95,3 +101,4 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma" />
 </div>
+>Useful tools (DevTools) to facilitate the design, development, or construction of solutions
